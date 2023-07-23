@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 7, 2023, 2:53:02 PM
+    Author     : Admin
+*/
+body {
+    background-position: center;
+    background-color: #eee;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #505050;
+    font-family: "Rubik", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.5;
+    text-transform: none
+}
+
+.forgot {
+    background-color: #fff;
+    padding: 12px;
+    border: 1px solid #dfdfdf
+}
+
+.padding-bottom-3x {
+    padding-bottom: 72px !important
+}
+
+.card-footer {
+    background-color: #fff
+}
+.card-footer button{
+    border: none
+}
+
+.btn {
+    font-size: 13px
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #76b7e9;
+    outline: 0;
+    box-shadow: 0 0 0 0px #28a745
+}
